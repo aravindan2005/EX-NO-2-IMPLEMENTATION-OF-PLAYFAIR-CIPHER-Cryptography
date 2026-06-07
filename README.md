@@ -1,5 +1,6 @@
 # EX-NO-2: IMPLEMENTATION OF PLAYFAIR CIPHER
-
+## NAME: ARAVINDAN T
+## REG NO: 2305001003
  
 
 ## AIM:
@@ -35,7 +36,7 @@ STEP-5: Display the obtained cipher text.
 
 
 ## Program:
-```
+```c
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
@@ -115,6 +116,7 @@ int main() {
 
 ## Output:
 
+<img width="243" height="139" alt="image" src="https://github.com/user-attachments/assets/7fda27e3-1997-47d7-9def-dd010202946b" />
 
 
 ## Result:
